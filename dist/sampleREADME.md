@@ -12,18 +12,18 @@
   * [Questions](#questions)
 
   ## Description
-  Running CLI to have a professional README generated automatically.
+  Running CLI to have a professional README generated automatically
   ## Installation
   Please clone this repo to your computer, open terminal and enter these commands: "npm install", "npm install inquirer".
   ## Usage
-  Use this as a tool to generate a professional README quickly. 
+  Use this as a tol to generate a professional README quickly. 
   
   
-  [Mario's GitHub](github.com/marioessig)
+  
   ## Contributing
   This project is open source.
   ## Tests
-  Video link will be provided.
+  Video Link will be provided after this.
   ## License
   Licensed under the MIT license
 
