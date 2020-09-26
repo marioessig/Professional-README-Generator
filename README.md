@@ -39,4 +39,4 @@ Create an application that asks the user questions to create a README.md file au
 [How to create a Professional README](./readme-guide.md)
 
 ### Links:
-[GitHub Repository URL](https://github.com/marioessig/password-generator)
+[GitHub Repository URL](https://github.com/marioessig/Professional-README-Generator)
