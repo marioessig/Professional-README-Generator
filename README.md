@@ -33,7 +33,7 @@ Create an application that asks the user questions to create a README.md file au
 >* THEN I am taken to the corresponding section of the README <br>
 
 ### Application Video Walkthrough
-![Application Walkthrough]()
+[Application Walkthrough](https://youtu.be/yt5DfGwlXAQ)
 
 ### How to Create a Professional README
 [How to create a Professional README](./readme-guide.md)
