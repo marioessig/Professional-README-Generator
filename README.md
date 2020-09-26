@@ -1,4 +1,4 @@
-# 03 - Password Generator Starter Code
+# Professional README Generator
 
 ## Table of Contents
 * [Challenge Goal](#challenge-goal)
